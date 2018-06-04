@@ -1,0 +1,27 @@
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).exe.config
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).exe
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).pdb
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).csprojResolveAssemblyReference.cache
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ_3_заправка_.Form1.resources
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ_3_заправка_.Properties.Resources.resources
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).csproj.GenerateResource.Cache
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).exe
+D:\ШАГ\WindowsForms\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).pdb
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).exe.config
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).exe
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).pdb
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).csprojResolveAssemblyReference.cache
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ_3_заправка_.Form1.resources
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ_3_заправка_.Properties.Resources.resources
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).csproj.GenerateResource.Cache
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).exe
+C:\Users\user01\Desktop\MyMy\DZ 3(заправка)-20171102T112649Z-001\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).pdb
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).exe.config
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).exe
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).pdb
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).exe
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\bin\Debug\DZ 3(заправка).pdb
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ_3_заправка_.Form1.resources
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ_3_заправка_.Properties.Resources.resources
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).csproj.GenerateResource.Cache
+D:\ШАГ\WindowsForms\DZ 3(заправка)-20171102T155719Z-001\DZ 3(заправка)\DZ 3(заправка)\obj\Debug\DZ 3(заправка).csprojResolveAssemblyReference.cache
